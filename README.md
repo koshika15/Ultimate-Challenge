@@ -1,6 +1,8 @@
 # Ultimate-Challenge
 A data science challenge involving exploratory data analysis, experiment and metrics design, and predictive modeling.
 
+The solution and solution code can be seen here: [Solution code](https://github.com/koshika15/Ultimate-Challenge/blob/master/Ultimate_data_challenge_solution%20code.ipynb)
+
 Following is the description of the challenge:
 
 ## Part 1 ‑ Exploratory Data Analysis
